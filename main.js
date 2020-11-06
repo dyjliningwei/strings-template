@@ -47,7 +47,7 @@ function parseTemplate(str, vs) {
 
 	for (let i = 0; i < values.length; i++) {
 		if (values[i] == 0) {
-			const sum = values.slice(i).reduce((prev, next) => ~~prev + ~~next);
+			const sum = values.slice(i + 1).reduce((prev, next) => ~~prev + ~~next);
 			const endLen = str.length - 1 - start - sum;
 			repStr += `${keys[i]}:${str.substr(start, endLen)};`;
 			start += ~~values[i] + endLen;
