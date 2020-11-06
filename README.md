@@ -1,5 +1,3 @@
-#string template
-####字符串解析、反解析
 #Installation
 ```
 npm install strings-template
