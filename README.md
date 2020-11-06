@@ -4,7 +4,7 @@ npm install strings-template
 ```
 ###使用方法
 ```
-const st=require("strings-template");
+const st=require('strings-template');
 
 // 解析字符串
 const cmdStr = '21[len]0901[url]FS0140;';
