@@ -1,0 +1,24 @@
+{
+  "name": "strings-template",
+  "version": "1.0.2",
+  "description": "string parsing、string antiparsing",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dyjliningwei/stringTemplate.git"
+  },
+  "keywords": [
+    "string",
+    "strings-template",
+    "parse"
+  ],
+  "author": "lnw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyjliningwei/stringTemplate/issues"
+  },
+  "homepage": "https://github.com/dyjliningwei/stringTemplate#readme"
+}
