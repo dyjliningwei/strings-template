@@ -1,6 +1,6 @@
 {
   "name": "strings-template",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "string parsing、string antiparsing",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dyjliningwei/stringTemplate.git"
+    "url": "git+ssh://git@github.com/dyjliningwei/strings-template.git"
   },
   "keywords": [
     "string",
